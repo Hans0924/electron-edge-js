@@ -3,7 +3,7 @@
   "author": {
     "name": "zzzzhs <ann9963@outlook.com>"
   },
-  "version": "14.17.0",
+  "version": "14.18.0",
   "description": "Edge.js: run .NET and Node.js in-process on Electron",
   "tags": [
     "owin",
